@@ -11,3 +11,11 @@ __pycache__/
 *.pyd
 *.pyw
 *.pyz
+if/
+installed/
+it/
+my_new_env/
+Use/
+python3.11/
+you/
+skrt/
